@@ -1,0 +1,39 @@
+# Qt / C++
+build/
+*.user
+*.user.*
+*.pro.user
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compilación
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+
+# Android
+.android/
+.gradle/
+local.properties
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Variables/configuración privadas
+.env
